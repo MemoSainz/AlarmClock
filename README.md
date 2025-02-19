@@ -17,8 +17,6 @@
 > [!IMPORTANT]
 >
 > <div align="center">  <h2>Español</h2>  </div>
-> 
-> Mi versión 2.0 de esto.
 >
 > ¿Te gustaría poner una alarma en la terminal?
 > 
